@@ -5,15 +5,7 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
-Moi nhap: 5
-Quat dang duoc tat, dang o cap do gio so 0 va dang dung yen.
-Day la bang dieu khien cua quat UwU
-De trong de thoat khoi bang dieu khien
-Nhap so 1 de tat hoac mo quat
-Nhap so 2 de chuyen so cua quat
-Nhap so 3 de cho quat quay ngang hoac dung yen
-Nhap so 4 de hien thi thong so quat
-Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
 Moi nhap: 1
 Quat da duoc bat
 Day la bang dieu khien cua quat UwU
@@ -23,8 +15,9 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
-Moi nhap: 3
-Chuyen sang che do quay ngang
+Nhap so 6 de thoat khoi bang dieu khien
+Moi nhap: 1
+Quat da duoc tat
 Day la bang dieu khien cua quat UwU
 De trong de thoat khoi bang dieu khien
 Nhap so 1 de tat hoac mo quat
@@ -32,8 +25,9 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
-Moi nhap: 3
-Chuyen sang che do dung yen
+Nhap so 6 de thoat khoi bang dieu khien
+Moi nhap: 1
+Quat da duoc bat
 Day la bang dieu khien cua quat UwU
 De trong de thoat khoi bang dieu khien
 Nhap so 1 de tat hoac mo quat
@@ -41,6 +35,7 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
 Moi nhap: 2
 Nhap so muon chuyen (tu 1 den 4): 2
 Quat duoc chuyen ve so 2
@@ -51,6 +46,27 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
+Moi nhap: 3
+Chuyen sang che do quay ngang
+Day la bang dieu khien cua quat UwU
+De trong de thoat khoi bang dieu khien
+Nhap so 1 de tat hoac mo quat
+Nhap so 2 de chuyen so cua quat
+Nhap so 3 de cho quat quay ngang hoac dung yen
+Nhap so 4 de hien thi thong so quat
+Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
+Moi nhap: 3
+Chuyen sang che do dung yen
+Day la bang dieu khien cua quat UwU
+De trong de thoat khoi bang dieu khien
+Nhap so 1 de tat hoac mo quat
+Nhap so 2 de chuyen so cua quat
+Nhap so 3 de cho quat quay ngang hoac dung yen
+Nhap so 4 de hien thi thong so quat
+Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
 Moi nhap: 4
 Quat cua thuong hieu Senko, loai quat Dieu hoa, gia 900000.0 VND, cong suat 400W.
 Day la bang dieu khien cua quat UwU
@@ -60,6 +76,7 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
 Moi nhap: 5
 Quat dang duoc bat, dang o cap do gio so 2 va dang dung yen.
 Day la bang dieu khien cua quat UwU
@@ -69,6 +86,6 @@ Nhap so 2 de chuyen so cua quat
 Nhap so 3 de cho quat quay ngang hoac dung yen
 Nhap so 4 de hien thi thong so quat
 Nhap so 5 de hien thi trang thai quat
+Nhap so 6 de thoat khoi bang dieu khien
 Moi nhap: 6
 Good bye!
-PS D:\GitHUB\sinhductran>
