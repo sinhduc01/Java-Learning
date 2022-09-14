@@ -73,7 +73,6 @@ public class Quat {
 
     void bangDieuKhien() {
         System.out.println("Day la bang dieu khien cua quat UwU");
-        System.out.println("De trong de thoat khoi bang dieu khien");
         System.out.println("Nhap so 1 de tat hoac mo quat");
         System.out.println("Nhap so 2 de chuyen so cua quat");
         System.out.println("Nhap so 3 de cho quat quay ngang hoac dung yen");
