@@ -72,14 +72,23 @@ public class Quat {
     }
 
     void bangDieuKhien() {
-        System.out.println("Day la bang dieu khien cua quat UwU");
-        System.out.println("Nhap so 1 de tat hoac mo quat");
-        System.out.println("Nhap so 2 de chuyen so cua quat");
-        System.out.println("Nhap so 3 de cho quat quay ngang hoac dung yen");
-        System.out.println("Nhap so 4 de hien thi thong so quat");
-        System.out.println("Nhap so 5 de hien thi trang thai quat");
-        System.out.println("Nhap so 6 de thoat khoi bang dieu khien");
-        System.out.print("Moi nhap: ");
+        if (nutNguon == false) {
+            System.out.println("Day la bang dieu khien cua quat UwU");
+            System.out.println("Nhap so 1 de mo quat");
+            System.out.println("Nhap so 4 de hien thi thong so quat");
+            System.out.println("Nhap so 5 de hien thi trang thai quat");
+            System.out.println("Nhap so 6 de thoat khoi bang dieu khien");
+            System.out.print("Moi nhap: ");
+        } else {
+            System.out.println("Day la bang dieu khien cua quat UwU");
+            System.out.println("Nhap so 1 de tat quat");
+            System.out.println("Nhap so 2 de chuyen so cua quat");
+            System.out.println("Nhap so 3 de cho quat quay ngang hoac dung yen");
+            System.out.println("Nhap so 4 de hien thi thong so quat");
+            System.out.println("Nhap so 5 de hien thi trang thai quat");
+            System.out.println("Nhap so 6 de thoat khoi bang dieu khien");
+            System.out.print("Moi nhap: ");
+        }
     }
 
     void dieuKhien() {
@@ -118,7 +127,7 @@ public class Quat {
                     delay();
                     break;
                 default:
-                    System.out.println("Good bye!");
+                    System.out.println("Goodbye!");
                     cont = false;
                     delay();
                     break;
@@ -128,7 +137,15 @@ public class Quat {
 
     public static void main(String[] args) {
         Quat quat1 = new Quat("Senko", "Dieu hoa", 900000, 400);
-        quat1.dieuKhien();
+        Quat quat2 = new Quat("Thong nhat", "cay", 500000, 250);
+        Scanner ip = new Scanner(System.in);
+        System.out.print("Chon quat muon dieu khien (1 hoac 2):");
+        int soQuat = ip.nextInt();
+        if (soQuat == 1) {
+            quat1.dieuKhien();
+        } else {
+            quat2.dieuKhien();
+        }
 
     }
 }
