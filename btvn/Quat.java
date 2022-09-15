@@ -8,12 +8,15 @@ public class Quat {
     int congSuat, capDo;
     boolean quayNgang, nutNguon;
 
-    public Quat(String thuongHieu, String loai, double gia, int congSuat, Boolean quayNgang) {
+    public Quat(String thuongHieu, String loai, double gia, int congSuat, boolean quayNgang, int capDo,
+            boolean nutNguon) {
         this.thuongHieu = thuongHieu;
         this.loai = loai;
         this.gia = gia;
         this.congSuat = congSuat;
         this.quayNgang = quayNgang;
+        this.capDo = capDo;
+        this.nutNguon = nutNguon;
     }
 
     void chuyenSo(int so) {
@@ -136,8 +139,8 @@ public class Quat {
     }
 
     public static void main(String[] args) {
-        Quat quat1 = new Quat("Senko", "Dieu hoa", 900000, 400, false);
-        Quat quat2 = new Quat("Thong nhat", "cay", 500000, 250, false);
+        Quat quat1 = new Quat("Senko", "Dieu hoa", 900000, 400, false, 0, false);
+        Quat quat2 = new Quat("Thong nhat", "cay", 500000, 250, false, 0, false);
         Scanner ip = new Scanner(System.in);
         System.out.print("Chon quat muon dieu khien (1 hoac 2):");
         int soQuat = ip.nextInt();
