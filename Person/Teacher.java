@@ -1,4 +1,4 @@
-package Person;
+package person;
 
 public class Teacher extends Person {
     int salary;
@@ -17,13 +17,9 @@ public class Teacher extends Person {
     }
 
     @Override
-    public String toString() {
-        return "Teacher [salary=" + salary + "]";
-    }
-
-    @Override
     public void display() {
         // TODO Auto-generated method stub
         super.display();
+        System.out.println("Salary: " + salary);
     }
 }
