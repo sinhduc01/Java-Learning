@@ -1,5 +1,7 @@
 # Java-Learning
-From Vietnam
+bài tập ngày 19-10
+![image](https://user-images.githubusercontent.com/90901839/196684553-f62dc39f-023d-49a9-aec2-424f876c4ebf.png)
+
 bài tập ngày 12-10
 ![image](https://user-images.githubusercontent.com/90901839/195354205-b3266913-2d67-4966-a889-f2b5e1e08567.png)
 
